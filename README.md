@@ -1,2 +1,2 @@
 # Potato_leaf_Disease
-Create a predictive model using Deep Learning techniques to detect disease of Potato leaf using images.
+Developing a predictive model utilizing deep learning techniques for the identification of potato leaf diseases based on image data.
